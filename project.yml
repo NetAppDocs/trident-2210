@@ -1,16 +1,4 @@
 settings:
-  name: "Astra Trident 22.10"
-  internal:
-    pdf_enabled: true
-  prod:
-    pdf_enabled: true
-    harmony_enabled: true
-
-sidebar: 
-  entries:
-  - title: Legal notices
-    url: /legal-notices.html---
-settings:
   name: Astra Trident
   platform: ''
   internal:
