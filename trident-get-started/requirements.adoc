@@ -143,7 +143,7 @@ a|
 * registry.k8s.io/sig-storage/csi-provisioner:v3.3.0           
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0              
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0               
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3           
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0           
 * registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1 
 * docker.io/netapp/trident-operator:22.10.0 (optional)  
 
@@ -155,7 +155,7 @@ a|
 * registry.k8s.io/sig-storage/csi-provisioner:v3.3.0           
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0              
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0               
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3           
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0           
 * registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1 
 * docker.io/netapp/trident-operator:22.10.0 (optional)  
 
@@ -166,7 +166,7 @@ a|
 * registry.k8s.io/sig-storage/csi-provisioner:v3.3.0           
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0              
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0               
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3           
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0           
 * registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1 
 * docker.io/netapp/trident-operator:22.10.0 (optional)  
 
@@ -177,7 +177,7 @@ a|
 * registry.k8s.io/sig-storage/csi-provisioner:v3.3.0           
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0              
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0               
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3           
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0           
 * registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1 
 * docker.io/netapp/trident-operator:22.10.0 (optional)  
 
@@ -188,7 +188,7 @@ a|
 * registry.k8s.io/sig-storage/csi-provisioner:v3.3.0           
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0              
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0               
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3           
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0           
 * registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1 
 * docker.io/netapp/trident-operator:22.10.0 (optional)  
 
@@ -199,7 +199,7 @@ a|
 * registry.k8s.io/sig-storage/csi-provisioner:v3.3.0           
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0              
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0               
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3           
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0           
 * registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1 
 * docker.io/netapp/trident-operator:22.10.0 (optional)  
 
