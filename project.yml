@@ -1,6 +1,5 @@
 settings:
-  name: Astra Trident
-  platform: ''
+  name: Astra Trident 
   internal:
     pdf_enabled: true
   prod:
